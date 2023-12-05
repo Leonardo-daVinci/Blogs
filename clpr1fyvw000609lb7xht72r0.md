@@ -6,6 +6,7 @@ datePublished: Mon Dec 04 2023 15:00:15 GMT+0000 (Coordinated Universal Time)
 cuid: clpr1fyvw000609lb7xht72r0
 slug: intro-to-llms
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701529136947/ab33b431-c2dc-48eb-870c-792784ee02b2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701764666839/7f255a0b-03ae-4e5e-a359-3293784024d1.png
 tags: artificial-intelligence, machine-learning, google-cloud, google, transformers, llm, generative-ai, promptengineering
 
 ---
